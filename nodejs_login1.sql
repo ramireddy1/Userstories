@@ -70,7 +70,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `password`, `created`) VALUES
 (18, 'Rami Reddy', 'Seelam', 'ramireddyseelam1@gmail.com', '$2b$$RtEdZfaLZATsfradadfkAsASHGJHHGHGG2RfdR/f.H.ddffdf/kHelU/R1cO', '2019-05-07'),
-(19, 'Kartheek', 'Mannepalli', 'kartheek@nmsu.edu', '$2b$10$fdffffadasdjhgjsad.DSFDFDdffds', '2019-05-07');
+(19, 'Kartheek', 'Mannepalli', 'kartheek@nmsu.edu', '$2b$10$fdffffadasdjhgjsJKad.DSFDFDdffds', '2019-05-07');
 
 -- --------------------------------------------------------
 
