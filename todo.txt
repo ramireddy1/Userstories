@@ -1,0 +1,4 @@
+in client: npm start
+in backend: npm run dev
+
+to install packages: npm init, npm install
